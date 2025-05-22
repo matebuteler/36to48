@@ -11,5 +11,5 @@ I then realized: I have tons of 18650 batteries laying around. Why not use them 
 
 # Day 2: Schematic Layout
 
-I began the schematic by laying out a few functional blocks. 
-![image](https://github.com/user-attachments/assets/1e05587f-4712-4b63-b41c-8d8eb69bd59e)
+I began the schematic by laying out a few functional blocks and using a BMS design I got from the internet. 
+![image](https://github.com/user-attachments/assets/a5e438ca-6626-43ff-a5f6-d9b271844d68)
